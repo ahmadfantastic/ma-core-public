@@ -1,5 +1,7 @@
 ![Mango Logo](https://github.com/MangoAutomation/ma-core-public/blob/main/Core/web/images/logo.png)  
 
+[![codecov](https://codecov.io/github/ahmadfantastic/ma-core-public/graph/badge.svg?token=N85123B71H)](https://codecov.io/github/ahmadfantastic/ma-core-public)
+
 [![DepShield Badge](https://depshield.sonatype.org/badges/infiniteautomation/ma-core-public/depshield.svg)](https://depshield.github.io)  
 
 ## Mango Automation Core public code by [Infinite Automation](http://www.infiniteautomation.com)
